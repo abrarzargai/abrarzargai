@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad A.</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack developer/Penetration Tester/Red Teamer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarzargai&label=Profile%20views&color=0e75b6&style=flat" alt="abrarzargai" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Mern stack**
 
-- 🌱 I’m currently learning **penetration testing/red teaming**
+- 🌱 I’m currently learning **Penetration Tester/Red Teaming**
 
-- 👯 I’m looking to collaborate on **penetration testing/red teaming**
+- 👯 I’m looking to collaborate on **Penetration Tester/Red Teaming**
 
 
 <h3 align="left">Connect with me:</h3>
